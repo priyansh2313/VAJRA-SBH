@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Poppins-Bold;
+    src: url(../fonts/Poppins-Bold5d94.ttf?cdb29a5d7ccf57ff05a3fd9216d11771) format("truetype")
+}
+
+@font-face {
+    font-family: Poppins-Regular;
+    src: url(../fonts/Poppins-Regular7cc4.ttf?35d26b781dc5fda684cce6ea04a41a75) format("truetype")
+}
+
+@font-face {
+    font-family: Poppins-SemiBold;
+    src: url(../fonts/Poppins-SemiBolda062.ttf?ac8d04b620e54be9b0f0f4851d56e4dd) format("truetype")
+}
+
+@font-face {
+    font-family: Poppins-ExtraBold;
+    src: url(../fonts/Poppins-ExtraBold37a3.ttf?01849ee091e1762a5dd58aa1606242c6) format("truetype")
+}
+
+@font-face {
+    font-family: Poppins-Medium;
+    src: url(../fonts/Poppins-Medium5e5a.ttf?673ed42382ab264e0bf5b33f3579568c) format("truetype")
+}
+
+@font-face {
+    font-family: Poppins-Thin;
+    src: url(../fonts/Poppins-Thin7534.ttf?59ff6a729e30c99b478e7ac8fd2dd309) format("truetype")
+}
